@@ -16,5 +16,4 @@
       btn.textContent = '小吉';
     }
   });
-  
 }
